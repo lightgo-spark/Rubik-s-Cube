@@ -1,6 +1,6 @@
 # Rubik-s-Cube
 
-Copyright (c) 2026 Yohan Lee. All rights reserved.
+Copyright (c) 2026 Yh Lee. All rights reserved.
 
 All copyrights and intellectual property rights for all source code, algorithms, data, and documentation within this folder belong exclusively to the original author (Yohan Lee).
 
