@@ -7,7 +7,6 @@
 ## Overview
 
 VMAS Simulator Pro is a **commercial-grade Multi-Agent 2D Physics Simulator** built with **Rust + egui**.  
-It delivers feature parity with AnyLogic ($25,000/year) as a completely **free, open-source** application.
 
 - Executable: `vmas_simulator.exe` (4.6MB, standalone — no install required)
 - Source: 3,591 lines of Rust, 0 warnings
