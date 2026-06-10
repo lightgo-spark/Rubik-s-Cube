@@ -109,10 +109,3 @@ conv2d_visualizer/
 ## License
 
 Copyright (c) 2026 lightgo (lightgo1230@gmail.com)
-
-Licensed under either of:
-
-- [MIT License](https://opensource.org/licenses/MIT)
-- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-
-at your option.
