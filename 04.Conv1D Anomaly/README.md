@@ -6,17 +6,9 @@
 
 Built with **Rust** + **egui** — Fast, Safe, Native
 
-![Rust](https://img.shields.io/badge/Rust-2021_Edition-orange?logo=rust)
-![egui](https://img.shields.io/badge/egui-0.27-blue)
-![Tests](https://img.shields.io/badge/tests-142_passed-brightgreen)
-![Warnings](https://img.shields.io/badge/warnings-0-brightgreen)
-![Binary](https://img.shields.io/badge/binary-8.4_MB-blueviolet)
-![Lines](https://img.shields.io/badge/lines-15%2C516-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
-
 ---
 
-*A professional-grade desktop application for 1D time-series anomaly detection,  
+*A desktop application for 1D time-series anomaly detection,  
 featuring 26 algorithms from classical statistics to deep learning autoencoders.*
 
 ## ✨ Features
